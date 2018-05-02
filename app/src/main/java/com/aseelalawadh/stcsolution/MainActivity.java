@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         String email = String.valueOf(word);
-        email = email+"@stc.com.sa";
+        email = email+"@stcs.com.sa";
         textView.setText(email);
     }
 }
